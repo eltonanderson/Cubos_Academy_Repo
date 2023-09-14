@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "60830-045",
+    "logradouro": "Rua Professor Solon Farias",
+    "complemento": "de 1531/1532 ao fim",
+    "bairro": "José de Alencar",
+    "localidade": "Fortaleza",
+    "uf": "CE",
+    "ibge": "2304400",
+    "gia": "",
+    "ddd": "85",
+    "siafi": "1389"
+  }
+]
